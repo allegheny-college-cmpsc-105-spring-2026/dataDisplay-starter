@@ -1,5 +1,7 @@
 # Data Display Lab
 
+![Lab1!](graphics/data.jpg)
+
 ## Assigned
 
 Tuesday, 20 January 2026
